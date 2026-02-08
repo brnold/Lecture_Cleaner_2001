@@ -45,7 +45,7 @@ DF_MODEL="${DF_MODEL:-DeepFilterNet3}"
 DF_ARGS="${DF_ARGS:-}"
 MP3_KBPS="${MP3_KBPS:-96}"
 
-TARGET_I="${TARGET_I:--16}"
+TARGET_I="${TARGET_I:--12}"
 LRA="${LRA:-11}"
 TP="${TP:--1.5}"
 
